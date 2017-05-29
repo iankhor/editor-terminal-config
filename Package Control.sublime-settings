@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"Materialize",
+		"Ruby Slim",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"Themr"
+	]
+}
